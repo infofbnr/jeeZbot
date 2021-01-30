@@ -1,4 +1,3 @@
 # jeeZbot
 
-bad bot for jeeZ art server lol
-no u cant invite it
+bad bot for jeeZ art server lol\nno u cant invite it
